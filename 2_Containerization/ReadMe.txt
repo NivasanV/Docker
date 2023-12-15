@@ -62,4 +62,4 @@ docker --version (to check version)
 
 6.docker image build -t alika-hello-world-java .
                         This command is use for Creating an image of Dockerfile : 
-			( -t is a tag-->user definedand following name is also user defined)
+			( -t is a tag-->user definedand following name is also user defined).
